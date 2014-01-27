@@ -9,7 +9,7 @@
         <phases>
           <phase>phase1</phase>
           <phase>phase2</phase>
-          <phase>phase4</phase>
+          <phase>phase3</phase>
         </phases>
         <default-phases>
           <phase1>com.nextmetaphor.plugin:CustomLifecyclePlugin:phase1Goal</phase1>
